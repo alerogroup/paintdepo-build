@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cfb0b08c.chunk.css",
+    "main.js": "/static/js/main.6be0f51b.chunk.js",
+    "main.js.map": "/static/js/main.6be0f51b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.29e93b44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.29e93b44.js.map",
+    "static/css/2.b7b82d37.chunk.css": "/static/css/2.b7b82d37.chunk.css",
+    "static/js/2.ae2d2ed2.chunk.js": "/static/js/2.ae2d2ed2.chunk.js",
+    "static/js/2.ae2d2ed2.chunk.js.map": "/static/js/2.ae2d2ed2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b7b82d37.chunk.css.map": "/static/css/2.b7b82d37.chunk.css.map",
+    "static/css/main.cfb0b08c.chunk.css.map": "/static/css/main.cfb0b08c.chunk.css.map",
+    "static/js/2.ae2d2ed2.chunk.js.LICENSE.txt": "/static/js/2.ae2d2ed2.chunk.js.LICENSE.txt",
+    "static/media/ArrowDown.9744b223.svg": "/static/media/ArrowDown.9744b223.svg",
+    "static/media/Cancel.b0d71d39.svg": "/static/media/Cancel.b0d71d39.svg",
+    "static/media/Done.92ab5c81.svg": "/static/media/Done.92ab5c81.svg",
+    "static/media/Logo.bec92909.svg": "/static/media/Logo.bec92909.svg",
+    "static/media/Logo2.72284fd6.svg": "/static/media/Logo2.72284fd6.svg",
+    "static/media/btnBack.884adc11.svg": "/static/media/btnBack.884adc11.svg",
+    "static/media/downSmall.90c51700.svg": "/static/media/downSmall.90c51700.svg",
+    "static/media/paintDepoLogo.95d39426.svg": "/static/media/paintDepoLogo.95d39426.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29e93b44.js",
+    "static/css/2.b7b82d37.chunk.css",
+    "static/js/2.ae2d2ed2.chunk.js",
+    "static/css/main.cfb0b08c.chunk.css",
+    "static/js/main.6be0f51b.chunk.js"
+  ]
+}
